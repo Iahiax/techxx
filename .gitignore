@@ -1,0 +1,19 @@
+# Laravel .gitignore
+
+/vendor/
+/node_modules/
+/public/storage/
+/.env
+Homestead.yaml
+Homestead.json
+/public/hot
+/storage/*.key
+
+# Logs
+/storage/logs/*
+
+# IDE Files
+.idea/*
+.vscode/*
+/.vscode/*
+/.history/*
